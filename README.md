@@ -8,7 +8,7 @@
 
 &#x20;https://cdn.jsdelivr.net/gh/yaohongweiisme/PornBlock@master/BlockPorn.yaml &#x20;
 
-![](README_md_files/e142be20-d62f-11f0-a18c-adbc1266e11d.jpeg?v=1&type=image)
+<img width="1915" height="969" alt="image" src="https://github.com/user-attachments/assets/e560aa28-023b-4261-9cd4-66c3f2971ffe" />
 
 这个是规则集
 
