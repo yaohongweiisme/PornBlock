@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,myfreecams.com
   - DOMAIN-SUFFIX,camsoda.com
   - DOMAIN-SUFFIX,bonga.tv
+  - DOMAIN-KEYWORD,missav
+
 
   # === 活跃中文/日韩内容社区及聚合站 ===
   - DOMAIN-SUFFIX,missav.com
