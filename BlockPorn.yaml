@@ -22,6 +22,8 @@
   - "DOMAIN-SUFFIX,myfreecams.com,REJECT"
   - "DOMAIN-SUFFIX,camsoda.com,REJECT"
   - "DOMAIN-SUFFIX,bonga.tv,REJECT"
+  - "DOMAIN-SUFFIX,njav.com,REJECT"
+  - "DOMAIN-KEYWORD,missav,REJECT"
   # === 活跃中文/日韩内容社区及聚合站 (约 100 条) ===
   - "DOMAIN-SUFFIX,missav.com,REJECT"
   - "DOMAIN-SUFFIX,jable.tv,REJECT"
